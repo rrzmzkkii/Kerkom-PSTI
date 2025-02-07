@@ -1,1 +1,1 @@
-# Kerkom-PSTI
+# Kerkom-Algoritma
